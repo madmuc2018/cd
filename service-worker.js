@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cd/precache-manifest.b2eb4363ec9641154a267355d13de5c7.js"
+  "https://madmuc2018.github.io/cd/precache-manifest.970d016df7f4b0a1b13ad72a7c8f533b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/cd/index.html", {
+workbox.routing.registerNavigationRoute("https://madmuc2018.github.io/cd/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
