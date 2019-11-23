@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "https://madmuc2018.github.io/cd/static/css/2.229dd9c1.chunk.css"
   },
   {
-    "revision": "8c143aafa2e7c48c518d8d4460249808",
+    "revision": "5d0d2ec55fc3b1c093206494ef1e173a",
     "url": "https://madmuc2018.github.io/cd/index.html"
   }
 ];
